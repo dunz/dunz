@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://img.shields.io/youtube/likes/4OWRJ8Hnkz4?style=social
+
+https://img.shields.io/badge/wer-sdf-brightgreen
