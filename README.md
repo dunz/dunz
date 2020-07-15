@@ -6,6 +6,11 @@
 
 ![Dunz's github stats](https://github-readme-stats.vercel.app/api?username=Dunz&show_icons=true)
 
+https://img.shields.io/youtube/likes/4OWRJ8Hnkz4?style=social
+
+https://img.shields.io/badge/wer-sdf-brightgreen
+
+
 <!--
 **dunz/dunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-https://img.shields.io/youtube/likes/4OWRJ8Hnkz4?style=social
 
-https://img.shields.io/badge/wer-sdf-brightgreen
+markdown samples:
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+-->
