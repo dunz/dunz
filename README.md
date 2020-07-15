@@ -6,9 +6,7 @@
 
 ![Dunz's github stats](https://github-readme-stats.vercel.app/api?username=Dunz&show_icons=true)
 
-https://img.shields.io/youtube/likes/4OWRJ8Hnkz4?style=social
-
-https://img.shields.io/badge/wer-sdf-brightgreen
+![YouTube Video Votes](https://img.shields.io/youtube/likes/4OWRJ8Hnkz4?style=social&withDislikes)
 
 
 <!--
