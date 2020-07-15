@@ -6,8 +6,10 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://awesomejs.dev/img/project-types/js.png"></code>
-<code><img height="40" src="https://awesomejs.dev/img/project-types/nuxt.png"></code>
+<span>
+  <img height="40" src="https://awesomejs.dev/img/project-types/js.png">
+  <img height="40" src="https://awesomejs.dev/img/project-types/nuxt.png">
+</span>
 
 
 <span>
